@@ -1,0 +1,125 @@
+{
+    "body_colors": {
+        "colors": [
+            {
+                "name": "Viola Pasifae",
+                "value": "#6A0DAD"
+            },
+         
+            {
+                "name": "Dark Knight",
+                "value": "#000000"
+            },
+            {
+                "name": "Blu Cepheus",
+                "value": "#4393E6"
+            },
+            {
+                "name": "Rosso Mars",
+                "value": "#BF0012"
+            },
+            {
+                "name": "Bianco Monocerus",
+                "value": "#F2F3F5"
+            },
+            {
+                "name": "Verde Mantis",
+                "value": "#4CAF50"
+            }
+          
+        ],
+        "target": "Mt_Body",
+        "default": 3
+    },
+    "mirror_colors": {
+        "colors": [
+            {
+                "name": "Black",
+                "value": "#121212"
+            },
+            {
+                "name": "Arancio Atlas",
+                "value": "#F77F21"
+            },
+         
+            {
+                "name": "Giallo Horus",
+                "value": "#FFC300"
+            },
+            {
+                "name": "Bianco Monocerus",
+                "value": "#F2F3F5"
+            },
+            {
+                "name": "Verde Mantis",
+                "value": "#4CAF50"
+            }
+        ],
+        "target": "Mt_MirrorCover",
+        "default": 0
+    },
+   
+    "wheel_colors": {
+        "colors": [
+            {
+                "name": "Black",
+                "value": "#000000"
+            },
+            {
+                "name": "Grey",
+                "value": "#4C5457"
+            },
+            {
+                "name": "Metalic",
+                "value": "#dddddd"
+            },
+            {
+                "name": "Blu Cepheus",
+                "value": "#4393E6"
+            },
+            {
+                "name": "Rosso Mars",
+                "value": "#BF0012"
+            },
+            {
+                "name": "Bianco Monocerus",
+                "value": "#F2F3F5"
+            }
+         
+        ],
+        "target": "Mt_AlloyWheels",
+        "default": 0
+    },
+    "caliper_colors": {
+        "colors": [
+            {
+                "name": "Red",
+                "value": "#990000"
+            },
+            {
+                "name": "Yellow",
+                "value": "#E9A435"
+            },
+            {
+                "name": "Black",
+                "value": "#000000"
+            },
+            {
+                "name": "White",
+                "value": "#F1F7F7"
+            },
+            {
+                "name": "Verde Mantis",
+                "value": "#4CAF50"
+            },
+            {
+                "name": "Viola Pasifae",
+                "value": "#6A0DAD"
+            }
+         
+            
+        ],
+        "target": "Mt_BrakeCaliper",
+        "default": 0
+    }
+}
